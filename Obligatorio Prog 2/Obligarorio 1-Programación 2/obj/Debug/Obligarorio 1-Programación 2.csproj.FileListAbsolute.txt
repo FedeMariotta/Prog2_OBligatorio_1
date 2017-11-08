@@ -1,0 +1,62 @@
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.exe.config
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.exe
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.pdb
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csprojResolveAssemblyReference.cache
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMCliente.resources
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMCorredor.resources
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMPoliza.resources
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Form1.resources
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmListar.resources
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmRelacionClienteCorredor.resources
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Properties.Resources.resources
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csproj.GenerateResource.Cache
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.exe
+C:\Users\FEDERICO\Desktop\CTC\Programación 2\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.pdb
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.exe.config
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.exe
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.pdb
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csprojResolveAssemblyReference.cache
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMCliente.resources
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMCorredor.resources
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMPoliza.resources
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Form1.resources
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmListar.resources
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmRelacionClienteCorredor.resources
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Properties.Resources.resources
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csproj.GenerateResource.Cache
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csproj.CoreCompileInputs.cache
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.exe
+C:\Users\Juan Appoloni\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.pdb
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.exe.config
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.exe
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.pdb
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csprojResolveAssemblyReference.cache
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMCliente.resources
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMCorredor.resources
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMPoliza.resources
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmConsultas.resources
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Form1.resources
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.FrmListar.resources
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmRelacionClienteCorredor.resources
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Properties.Resources.resources
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csproj.GenerateResource.Cache
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.exe
+C:\Users\FEDERICO\Desktop\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.pdb
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.exe.config
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.exe
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\bin\Debug\Obligarorio 1-Programación 2.pdb
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csprojResolveAssemblyReference.cache
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMCliente.resources
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMCorredor.resources
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmABMPoliza.resources
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmConsultas.resources
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Form1.resources
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.FrmListar.resources
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Presentacion.frmRelacionClienteCorredor.resources
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio_1_Programación_2.Properties.Resources.resources
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csproj.GenerateResource.Cache
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.exe
+C:\Users\FEDERICO\Desktop\CTC\Prog_2_OBligatorio_1\Obligarorio 1-Programación 2\obj\Debug\Obligarorio 1-Programación 2.pdb
